@@ -38,7 +38,7 @@ class ViewController: UIViewController {
         return button
     }()
     
-    override func viewDidLoad() {//kevintest
+    override func viewDidLoad() {
         super.viewDidLoad()
         
         view.backgroundColor = .systemPink
